@@ -1,5 +1,5 @@
 {% set name = "semchunk" %}
-{% set version = "2.2.2" %}
+{% set version = "3.0.0" %}
 {% set python_min = "3.9" %}
 
 
@@ -37,7 +37,7 @@ test:
     - pip
 
 about:
-  summary: A fast and lightweight Python library for splitting text into semantically meaningful chunks.
+  summary: A fast, lightweight and easy-to-use Python library for splitting text into semantically meaningful chunks.
   home: https://github.com/umarbutler/semchunk
   license: MIT
   license_file: LICENCE
