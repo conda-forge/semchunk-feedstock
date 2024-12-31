@@ -1,5 +1,5 @@
 {% set name = "semchunk" %}
-{% set version = "2.2.2" %}
+{% set version = "3.0.0" %}
 {% set python_min = "3.9" %}
 
 
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/semchunk-{{ version }}.tar.gz
-  sha256: 940e89896e64eeb01de97ba60f51c8c7b96c6a3951dfcf574f25ce2146752f52
+  sha256: 04cbe842ae0ba55a7185b7c42eacee20d510f117bc5802a3e72c0efac4f191ff
 
 build:
   noarch: python
@@ -37,7 +37,7 @@ test:
     - pip
 
 about:
-  summary: A fast and lightweight Python library for splitting text into semantically meaningful chunks.
+  summary: A fast, lightweight and easy-to-use Python library for splitting text into semantically meaningful chunks.
   home: https://github.com/umarbutler/semchunk
   license: MIT
   license_file: LICENCE
