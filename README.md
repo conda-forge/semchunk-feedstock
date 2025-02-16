@@ -7,7 +7,7 @@ Home: https://github.com/umarbutler/semchunk
 
 Package license: MIT
 
-Summary: A fast and lightweight Python library for splitting text into semantically meaningful chunks.
+Summary: A fast, lightweight and easy-to-use Python library for splitting text into semantically meaningful chunks.
 
 Current build status
 ====================
