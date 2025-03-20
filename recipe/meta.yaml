@@ -38,7 +38,7 @@ test:
 
 about:
   summary: A fast, lightweight and easy-to-use Python library for splitting text into semantically meaningful chunks.
-  home: https://github.com/umarbutler/semchunk
+  home: https://github.com/isaacus-dev/semchunk
   license: MIT
   license_file: LICENCE
 
