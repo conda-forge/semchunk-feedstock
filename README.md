@@ -3,7 +3,7 @@ About semchunk-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/semchunk-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/umarbutler/semchunk
+Home: https://github.com/isaacus-dev/semchunk
 
 Package license: MIT
 
